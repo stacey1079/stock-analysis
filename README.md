@@ -1,2 +1,2 @@
-# VBA Module 2 Challenge Stock Analysis/br
+# VBA Module 2 Challenge Stock Analysis
 ## Overview of Analysis

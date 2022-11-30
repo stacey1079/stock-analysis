@@ -8,5 +8,6 @@ In this Module 2 Challenge I was tasked with refactoring the code to analyze the
 ![refactoredVBA_Challenge_2018](https://user-images.githubusercontent.com/45715246/204869785-8988cd31-1619-4625-85fc-7604456a3634.png)
 So, as you see when the code was refactored, it did run faster which will help Steve in the future when analyzing larger amounts of stocks.
 ## Summary
-One advantage of refactoring code is in order for it to run faster.  This is demonstrated clearly, through this module 2 Challenge.  Another advantage was that the code seemed to look cleaner as it was more condensed.  The first script has 3 separate If statements, and the refactored code only has 1 If statement.<\br
+One advantage of refactoring code is in order for it to run faster.  This is demonstrated clearly, through this module 2 Challenge.  Another advantage was that the code seemed to look cleaner as it was more condensed.  The first script has 3 separate If statements, and the refactored code only has 1 If statement.
+<br />
 The only disadvantage I experienced, was that it took me a lot of time and a tutor's help to figure out how to make the code run with only 1 If statement.  I didn't realize I had to set my tickerStartingPrice cell before I could execute the If statement to run through.
